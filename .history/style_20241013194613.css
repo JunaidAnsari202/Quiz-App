@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.quiz-container{
+    border: 1px solid black;
+    border: 10px;
+    box-shadow: 0 0 10px 0 black;
+    width: 500px;
+    height: 300px;
+    ba
+}
